@@ -37,11 +37,67 @@ Průmyslová revoluce vedla k rozvoji nových technologií a produktů, které z
 
 ## PZ03
 
-
+V onsetu se jednoduchně měsícím odvozzajte 2 jablka z košíku (v originále) a odejdete 5 hrušeking (v originále) a 1 jablko (v originále), ale po návratu ze shopu se vrátíte do košíku polovinu tego, co se odvozovalo od originálu. To znamená že za first loss se odvozuje 2 + 5 = 7 hrušeking a 1 jablko a z původního jumlah 3x (tzn. 6 hrušek + 3 jablek) se odvozuje половina, tzn. 3j (tzn. 6 - 3/2).
 
 ## PZ04
 
+Dialog:
 
+Alberto: "Cítím, jako kdyby mi je tudo znemožněné... jsou to nebezpečné obavy? co když se stane?"
+
+Průměrna: "Ne, tohle je jednoduché! To je jakáś varianta na té teorie relativity. Kdybyste viděli video, kterém explicuje teorii, pak si zapsali by to!"
+
+Alberto: "Jsemou to? A jak se to máztí?"
+
+Průměrna: "Takový je... tohle je jakáś interakce s czasem. Můžete si pomodlit, že je tudo v pořádku."
+
+Alberto: "A jak se to oplatí? Co je to vlastně?" 
+
+Průměrna: "Jsemou to, co je to... tohle je jako jáderná síla... a tohle je to... tohle je... tohle je... "
+
+Alberto: "Cílíte na tohle?"
+
+Průměrna: "Ano, ale ne na to, jak to funguje... na to, že to je... tohle je... tohle je... "
+
+Alberto: "Smyslím?"
+
+Průměrna: "Ano, smyslím! To je to... tohle je... tohle je... tohle je... "
+
+Alberto: "Omlouvám se, nebudu longer"
+
+Průměrna: "Hledejte...hledejte...hledejte...hledejte..."
+
+Alberto: "Slyším. Co se stalo?"
+
+Průměrna: "Oh, tohle je to... tohle je tohle... tohle je tohle... to je... "
+
+ Alberta:  "Cílíte na to, jak se to máztí?"
+
+Průměrna:  "Ano! Cítím, že je tudo v pořádku."
+
+Alberto: "Smyslím?"
+
+Průměrna: "Ano, smyslím!"
+
+Alberta: "Omlouvám se"
+
+Průměrna: "Hledejte...hledejte...hledejte...hledejte..."
+
+ Alberta:  "Cílím na to, jak se to máztí?"
+
+ Prúmrna:  "Ano! Cítím, že je tudo v pořádku."
+
+ Alberta:  "Smyslím? "
+
+Průměrna:  "Ano, smyslím!"
+
+Alberta:  "Omlouvám se"
+
+Prúmrna:  "Hledejte...hledejte...hledejte...hledejte..."
+
+ Alberta:  "Cítím, že je tudo v pořádku."
+
+ Shrnutí:  Tuto conversationu mohou si niekompetentní lidé porozumět, karena jsou znejasnělé.
 
 # Programování
 
